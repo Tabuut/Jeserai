@@ -1,0 +1,39 @@
+{
+  "7297257627": {
+    "frequent_topics": {
+      "معلومات": 1,
+      "شنو": 1
+    },
+    "communication_style": [
+      "يستخدم رسائل قصيرة"
+    ],
+    "preferences": {},
+    "total_messages": 9,
+    "question_history": [
+      {
+        "question": "what_question",
+        "full_message": "شنو احسن نوع سيارات عده الخمسة الاولى",
+        "timestamp": 1757009583.1078372,
+        "response_type": "simple_answer"
+      }
+    ],
+    "conversation_themes": {
+      "عام": 8,
+      "تعليمية": 1
+    },
+    "response_preferences": {}
+  },
+  "1298158024": {
+    "frequent_topics": {},
+    "communication_style": [
+      "يستخدم رسائل قصيرة"
+    ],
+    "preferences": {},
+    "total_messages": 2,
+    "question_history": [],
+    "conversation_themes": {
+      "عام": 2
+    },
+    "response_preferences": {}
+  }
+}
